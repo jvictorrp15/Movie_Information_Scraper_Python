@@ -12,6 +12,3 @@ Execute `python3 movieInfoScraper.py` and type in the movie name when prompted.
 ### Screenshot/GIF showing the sample use of the script
 <!--Remove the below lines and add yours -->
 ![Screenshot of the Output](Screenshot.png)
-
-## Author Name
-[Anandha Krishnan Aji](https://github.com/anandhakrishnanaji)
